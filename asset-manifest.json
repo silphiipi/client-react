@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/client-react/static/css/main.0290ebf7.css",
+    "main.js": "/client-react/static/js/main.0f249713.js",
+    "static/js/787.d5fa4d18.chunk.js": "/client-react/static/js/787.d5fa4d18.chunk.js",
+    "static/media/Poppins-Thin.ttf": "/client-react/static/media/Poppins-Thin.a61eaf4c2e4d44d6db6a.ttf",
+    "static/media/Poppins-Light.ttf": "/client-react/static/media/Poppins-Light.f41b63c0bb0963ace821.ttf",
+    "static/media/Poppins-Regular.ttf": "/client-react/static/media/Poppins-Regular.8081832fc5cfbf634aa6.ttf",
+    "static/media/Poppins-Medium.ttf": "/client-react/static/media/Poppins-Medium.9e1bb626874ed49aa343.ttf",
+    "static/media/Poppins-SemiBold.ttf": "/client-react/static/media/Poppins-SemiBold.cce5625b56ec678e4202.ttf",
+    "static/media/Poppins-Bold.ttf": "/client-react/static/media/Poppins-Bold.404e299be26d78e66794.ttf",
+    "static/media/Poppins-ExtraBold.ttf": "/client-react/static/media/Poppins-ExtraBold.4ed78cd5d64af4efc3c7.ttf",
+    "static/media/profilephoto.jpg": "/client-react/static/media/profilephoto.6e55ace92971a8da0cfb.jpg",
+    "static/media/bg.jpg": "/client-react/static/media/bg.5ab37d364276bf31445d.jpg",
+    "index.html": "/client-react/index.html",
+    "main.0290ebf7.css.map": "/client-react/static/css/main.0290ebf7.css.map",
+    "main.0f249713.js.map": "/client-react/static/js/main.0f249713.js.map",
+    "787.d5fa4d18.chunk.js.map": "/client-react/static/js/787.d5fa4d18.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0290ebf7.css",
+    "static/js/main.0f249713.js"
+  ]
+}
